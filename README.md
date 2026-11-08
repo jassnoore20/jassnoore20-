@@ -25,4 +25,3 @@ I'm currently pursuing my Bachelor of Computer Applications (BCA) and exploring 
 
 ---
 
-*Learning, building and growing one step at a time!*
